@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Gary love Bebe
+                    1
                 </div>
 
                 <div class="links">
